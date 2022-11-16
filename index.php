@@ -1,3 +1,3 @@
 <?php
 
-print "Hello World, This is IndApp!";
+print "This is Azure Page";
