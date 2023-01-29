@@ -1,3 +1,3 @@
 <?php
 
-print "This is Azure Page";
+print "This is the US App";
